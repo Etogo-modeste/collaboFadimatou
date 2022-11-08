@@ -1,0 +1,119 @@
+#user{
+    text-align: center;
+    border-radius: 4px;
+    border-color: black;
+    margin-top: 25px;
+}
+#password{
+    text-align: center;
+    border-radius: 4px;
+    border-color: black;
+    margin-top: 10px;
+}
+body{
+    background-repeat: no-repeat;
+
+}
+#connexion{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+border-color: black;
+border-radius: 10px;
+height: 600px;
+width: 600px;
+background-color:rgb(182, 216, 230);
+
+}
+input{
+    margin-left: 50px;
+    width: 500px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+#bt{
+    margin-left: 215px;
+    width: 180px;
+    height: 38px;
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+}
+#bt:hover{
+    background-color: green;
+}
+#logo{
+    margin-left: 190px;
+    margin-top: 140px;
+}
+button{
+    cursor: pointer;
+    border-radius: 10px;
+}
+#link:hover{
+    color: red;
+}
+#link{
+    font-weight: bolder;
+}
+#societe{
+    border-radius: 4px;
+    border-color: black;
+    text-align: center;
+}
+/* #profile{
+    width: 140px;
+    height: 140px;
+    border-radius: 90px;
+    background-color: #f5f8fa !important;
+    border: 1px solid #dadada;
+    cursor: pointer;
+    margin-left: 110px;
+    
+} */
+/* #image{
+    cursor: pointer;
+} */
+body{
+    background-color: grey;
+}
+#text{
+    margin-top: 550px;
+}
+#link{
+    margin-top: 550px;
+}
+/* #photo{
+    width: 100px;
+    height: 100px;
+    margin-left: 250px;
+    cursor: pointer;
+}
+#choose{
+    margin-left: 200px;
+    cursor: pointer;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#choose:hover{
+    color: green;
+}
+#profil{
+    font-size: 20px;
+    overflow: hidden;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#file{
+    display: none;
+} */
+
+
+
