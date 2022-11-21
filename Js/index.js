@@ -1,5 +1,5 @@
 function connexion(){
-            window.open("connexion.html");
+            window.open("connexion.php");
         
 }
 function exit(){
